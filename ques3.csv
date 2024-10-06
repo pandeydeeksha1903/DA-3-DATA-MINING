@@ -1,0 +1,80 @@
+Fruit_Name,Color,Shape,Size,Texture,Weight,Volume,Density,SweetnessFactor
+Chinese date,Red,Round,Medium,Firm,150.5,165.2,0.911,7
+Chinese date,Green,Round,Large,Smooth,175.3,192.6,0.91,5
+Chinese date,Red,Round,Small,Firm,100.2,110.1,0.91,6
+Chinese date,Yellow,Oval,Medium,Smooth,145.8,160.2,0.91,6
+Chinese date,Red,Round,Large,Firm,190.6,209.4,0.91,8
+Chinese date,Green,Oblong,Medium,Smooth,130.6,143.5,0.91,5
+Chinese date,Red,Round,Medium,Smooth,155.3,170.6,0.91,7
+Chinese date,Yellow,Round,Small,Firm,95.4,104.8,0.91,6
+Chinese date,Red,Heart-shaped,Large,Smooth,185.2,203.5,0.91,8
+Chinese date,Green,Round,Medium,Firm,140.7,154.6,0.91,5
+Papaya,Yellow,Long,Medium,Smooth,118.3,130.5,0.906,8
+Papaya,Yellow,Curved,Large,Smooth,160.8,176.7,0.91,9
+Papaya,Yellow,Straight,Medium,Smooth,135.2,148.6,0.91,8
+Papaya,Green,Curved,Large,Firm,170.5,187.3,0.91,7
+Papaya,Yellow,Long,Small,Smooth,85.4,93.8,0.911,7
+Papaya,Yellow,Curved,Medium,Smooth,125.6,138,0.91,8
+Papaya,Green,Straight,Large,Firm,155.7,171.1,0.91,6
+Papaya,Yellow,Long,Large,Smooth,175.3,192.6,0.91,9
+Papaya,Yellow,Curved,Small,Smooth,80.2,88.1,0.91,7
+Papaya,Green,Long,Medium,Firm,130.4,143.3,0.91,6
+Cherry,Red,Round,Small,Soft,8.2,9.1,0.901,9
+Cherry,Dark Red,Heart-shaped,Medium,Firm,10.5,11.5,0.913,8
+Cherry,Red,Round,Tiny,Soft,5.5,6,0.917,9
+Cherry,Bright Red,Oval,Small,Firm,7.8,8.6,0.907,8
+Cherry,Red,Round,Medium,Soft,9.7,10.7,0.907,9
+Cherry,Dark Red,Heart-shaped,Small,Firm,6.9,7.6,0.908,8
+Cherry,Red,Oval,Tiny,Soft,4.8,5.3,0.906,9
+Cherry,Bright Red,Round,Medium,Soft,11.2,12.3,0.911,9
+Cherry,Red,Heart-shaped,Small,Firm,7.5,8.2,0.915,8
+Cherry,Dark Red,Round,Tiny,Soft,5.1,5.6,0.911,9
+Date,Brown,Oval,Small,Soft,7.5,8.2,0.915,10
+Date,Dark Brown,Oblong,Medium,Wrinkled,24.3,26.7,0.91,9
+Date,Light Brown,Oval,Small,Smooth,15.7,17.3,0.908,10
+Date,Brown,Oblong,Large,Wrinkled,38.6,42.4,0.91,8
+Date,Dark Brown,Round,Medium,Soft,20.1,22.1,0.91,9
+Date,Brown,Oval,Large,Wrinkled,35.4,38.9,0.91,8
+Date,Light Brown,Oblong,Small,Smooth,12.8,14.1,0.908,10
+Date,Dark Brown,Round,Medium,Wrinkled,22.6,24.8,0.911,9
+Date,Brown,Oval,Large,Soft,30.9,33.9,0.911,8
+Date,Light Brown,Oblong,Small,Wrinkled,10.5,11.5,0.913,10
+Blackberries,Purple,Round,Tiny,Smooth,0.5,0.6,0.833,6
+Blackberries,Dark Purple,Oval,Small,Smooth,1.2,1.3,0.923,5
+Blackberries,Purple,Round,Tiny,Smooth,0.3,0.3,1,6
+Blackberries,Black,Oval,Small,Smooth,0.8,0.9,0.889,5
+Blackberries,Purple,Round,Tiny,Smooth,0.4,0.5,0.8,6
+Blackberries,Dark Purple,Oval,Small,Smooth,1,1.1,0.909,5
+Blackberries,Purple,Round,Tiny,Smooth,0.6,0.7,0.857,6
+Blackberries,Black,Oval,Small,Smooth,1.1,1.2,0.917,5
+Blackberries,Purple,Round,Tiny,Smooth,0.7,0.8,0.875,6
+Blackberries,Dark Purple,Oval,Small,Smooth,0.9,1,0.9,5
+Fig,Purple,Pear-shaped,Small,Smooth,55.3,60.8,0.91,7
+Fig,Brown,Teardrop,Medium,Smooth,80.1,88,0.91,8
+Fig,Purple,Round,Small,Smooth,40.2,44.2,0.91,6
+Fig,Green,Pear-shaped,Large,Smooth,110.5,121.4,0.91,9
+Fig,Brown,Oval,Medium,Smooth,75.6,83.1,0.91,8
+Fig,Purple,Teardrop,Small,Smooth,50.8,55.8,0.91,7
+Fig,Green,Round,Large,Smooth,105.3,115.7,0.91,8
+Fig,Brown,Pear-shaped,Medium,Smooth,85.2,93.6,0.91,9
+Fig,Purple,Oval,Small,Smooth,45.7,50.2,0.91,7
+Fig,Green,Teardrop,Large,Smooth,115.8,127.2,0.911,8
+Grape,Purple,Round,Tiny,Smooth,5.2,5.7,0.912,8
+Grape,Green,Oval,Small,Smooth,7.5,8.2,0.915,6
+Grape,Red,Round,Small,Smooth,8.7,9.6,0.906,7
+Grape,Purple,Oval,Tiny,Smooth,3.5,3.8,0.921,8
+Grape,Green,Round,Small,Smooth,6.8,7.5,0.907,7
+Grape,Red,Oval,Tiny,Smooth,4.1,4.5,0.911,8
+Grape,Purple,Round,Small,Smooth,9.3,10.2,0.912,7
+Grape,Green,Oval,Tiny,Smooth,3.8,4.2,0.905,6
+Grape,Red,Round,Small,Smooth,7.9,8.7,0.908,8
+Grape,Purple,Oval,Tiny,Smooth,4.6,5.1,0.902,7
+Honeydew,Green,Round,Large,Smooth,1500,1650,0.909,6
+Honeydew,Light Green,Oval,Medium,Smooth,1200.5,1319.2,0.91,5
+Honeydew,Green,Round,Large,Smooth,1800.3,1978.4,0.91,7
+Honeydew,Yellow-Green,Oval,Medium,Smooth,1350.2,1484.8,0.91,5
+Honeydew,Green,Round,Large,Smooth,1650.7,1814,0.91,6
+Honeydew,Light Green,Oval,Medium,Smooth,1100.3,1209.1,0.91,5
+Honeydew,Green,Round,Large,Smooth,1750.5,1923.6,0.91,7
+Honeydew,Yellow-Green,Oval,Medium,Smooth,1300.8,1429.4,0.91,5
+Honeydew,Green,Round,Large,Smooth,1600.2,1758.5,0.91,6
